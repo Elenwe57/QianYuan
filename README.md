@@ -17,4 +17,14 @@ Ce dépôt contient une partie des **scripts utilisés sur le forum**, notamment
 
 - Ouvre une issue ici sur GitHub pour suggérer une amélioration ou signaler un bug.
 
-> 🌸 Merci de contribuer à faire de QianYuan un univers riche, vivant et immersif – aussi bien pour les rôlistes que pour les amateurs de beaux scripts !
+> 🌸 Merci de contribuer à faire de QianYuan un univers riche, vivant et immersif – aussi bien pour les rôlistes que pour les amateurs de scripts !
+
+---
+
+## 🛠️ Disclaimer
+
+> Je ne suis **pas développeuse de profession** : tous les scripts présents ici ont été conçus **en autodidacte**, au fil de mes apprentissages, tests, lectures et (beaucoup de) galères.  
+>  
+> Certains codes peuvent être **imparfaits ou non optimisés**, mais ils fonctionnent dans le contexte de QianYuan.  
+>  
+> N’hésitez pas à les adapter à vos besoins, à les corriger ou à m’envoyer des suggestions pour les améliorer. ❤️  
